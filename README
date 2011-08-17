@@ -2,4 +2,4 @@ This is a project put together as part of the SimpleGeo interview process.
 
 This mobile web app returns information about a closed set of US National Parks. 
 
-Extensions of this project might include pulling and displaying data provided by the SimpleGeo API.
+Extensions of this project might include making calls to the SimpleGeo API and displaying the resulting data.
